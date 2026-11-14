@@ -261,7 +261,7 @@
       "description": "Draws every emoji with Twemoji instead of the system emoji font.",
       "author": "Tetros",
       "channels": {
-        "latest": "1.0.1"
+        "latest": "1.0.2"
       },
       "versions": {
         "1.0.0": {
@@ -284,6 +284,22 @@
           "url": "https://tetrosnagami.github.io/TwemojiValenced/pool/tetrosnagami.twemoji-pack@1.0.1.zip",
           "sha256": "7d6d3d273ec6a1ba324daf1f912f8cf118ffde9c581e0fa0cdf045278954b81c",
           "size": 5557809,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api.themes": {
+              "version": "*"
+            }
+          }
+        },
+        "1.0.2": {
+          "url": "https://tetrosnagami.github.io/TwemojiValenced/pool/tetrosnagami.twemoji-pack@1.0.2.zip",
+          "sha256": "0c2a9c32308b2762bdb22a4707bef5521f83b8f14fe3ee6bf62e8ca52945a611",
+          "size": 5558996,
           "dependencies": {
             "valenced.api": {
               "version": ">=1 <2"
