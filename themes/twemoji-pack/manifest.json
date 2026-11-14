@@ -4,7 +4,7 @@
 	"name": "Twemoji Pack",
 	"description": "Draws every emoji with Twemoji instead of the system emoji font.",
 	"author": "Tetros",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"dependencies": {
 		"valenced.api": {
 			"version": ">=1 <2"
