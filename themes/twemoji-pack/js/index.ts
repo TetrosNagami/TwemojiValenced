@@ -19,6 +19,7 @@ export default plugin({
 			name: 'Twemoji',
 			description: 'Twemoji instead of your device emoji',
 			images: 'assets/emoji',
+			font: 'assets/fonts/TwemojiMozilla.ttf',
 		})
 	},
 })
